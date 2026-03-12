@@ -1,5 +1,13 @@
 # Hi, I'm Guillermo Cabrera 👋
 
+Fullstack developer focused on building mobile applications and backend services with TypeScript.
+
+![Profile Views](https://komarev.com/ghpvc/?username=cabrerojas&color=blue)
+
+---
+
+## 🧰 Tech Stack
+
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -10,39 +18,32 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-Fullstack developer focused on mobile applications, backend services and product-oriented software.
-
-I enjoy building tools that solve real problems, especially mobile apps connected to scalable backend services.
-
 ---
 
-# 🚀 Featured Project
+# 🚧 Currently Building
 
 ## MyQuota
 
-Personal finance application designed to help users track installments, payments and financial activity.
-
-The project is composed of two main parts:
+Personal finance mobile application designed to help users track installments, payments and financial activity.
 
 ### 📱 Mobile App
 
 Repository  
 https://github.com/cabrerojas/myquota-app
 
-Tech Stack
+Tech
 
 - React Native
 - Expo
 - TypeScript
 - AsyncStorage
-- REST API integration
 
 Features
 
 - Track financial transactions
 - Manage installment payments
 - Monthly financial overview
-- Mobile-first user experience
+- Mobile-first UX
 
 ---
 
@@ -51,25 +52,48 @@ Features
 Repository  
 https://github.com/cabrerojas/myquota-backend
 
-Tech Stack
+Tech
 
 - Node.js
 - Express
 - TypeScript
 - DynamoDB
-- JWT authentication
-- REST API
+- Firebase
+- JWT Authentication
 
 Features
 
 - User authentication
-- Financial transaction management
+- Transaction management
 - Installment tracking
-- Secure API endpoints
+- Secure REST API
 
 ---
 
-# 🧰 Other Projects
+## 🏗 MyQuota Architecture
+React Native Mobile App
+↓
+REST API
+↓
+Node.js Backend (Express)
+↓
+DynamoDB + Firebase
+
+---
+
+# 📊 GitHub Stats
+
+![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabrerojas&show_icons=true&theme=tokyonight)
+
+---
+
+# 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabrerojas&layout=compact&theme=tokyonight)
+
+---
+
+# 🔧 Other Projects
 
 ### cordova-plugin-integrity
 
@@ -77,30 +101,7 @@ Cordova plugin that retrieves the APK hash to verify Android application integri
 
 ### cordova-plugin-detectproxy
 
-Plugin used to detect proxy configuration on Android devices to help prevent network tampering.
-
----
-
-# 💻 Tech Stack
-
-**Mobile**
-
-- React Native
-- Ionic
-- Angular
-- Capacitor
-
-**Backend**
-
-- Node.js
-- Express
-- Firebase
-- DynamoDB
-
-**Languages**
-
-- TypeScript
-- JavaScript
+Plugin that detects proxy configuration on Android devices to help prevent network tampering.
 
 ---
 
