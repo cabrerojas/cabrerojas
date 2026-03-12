@@ -1,5 +1,10 @@
 # Hi, I'm Guillermo Cabrera 👋
 
+![React Native](https://img.shields.io/badge/React%20Native-mobile-blue)
+![Node](https://img.shields.io/badge/Node.js-backend-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-language-blue)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-database-orange)
+
 Fullstack developer focused on mobile applications, backend services and product-oriented software.
 
 I enjoy building tools that solve real problems, especially mobile apps connected to scalable backend services.
