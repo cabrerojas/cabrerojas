@@ -112,6 +112,8 @@ Plugin that detects proxy configuration on Android devices to help prevent netwo
 
 ## 📫 Contact
 
+Feel free to reach out if you'd like to collaborate or discuss a project.
+
 [![Email](https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcabrerojas@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cabrerojas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gcabrerojas)
