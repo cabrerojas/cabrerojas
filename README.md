@@ -34,10 +34,10 @@ https://github.com/cabrerojas/myquota-app
 
 Tech
 
-- React Native
-- Expo
-- TypeScript
-- AsyncStorage
+![React Native](https://img.shields.io/badge/React%20Native-mobile-blue?logo=react)
+![Expo](https://img.shields.io/badge/Expo-framework-black?logo=expo)
+![TypeScript](https://img.shields.io/badge/TypeScript-language-blue?logo=typescript)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-local%20storage-grey)
 
 Features
 
@@ -55,12 +55,11 @@ https://github.com/cabrerojas/myquota-backend
 
 Tech
 
-- Node.js
-- Express
-- TypeScript
-- DynamoDB
-- Firebase
-- JWT Authentication
+![Node.js](https://img.shields.io/badge/Node.js-runtime-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express-framework-black?logo=express)
+![TypeScript](https://img.shields.io/badge/TypeScript-language-blue?logo=typescript)
+![Firestore](https://img.shields.io/badge/Firestore-database-orange?logo=firebase)
+![JWT](https://img.shields.io/badge/JWT-authentication-black?logo=jsonwebtokens)
 
 Features
 
