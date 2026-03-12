@@ -71,14 +71,18 @@ Features
 ---
 
 ## 🏗 MyQuota Architecture
-React Native Mobile App
-↓
-REST API
-↓
-Node.js Backend (Express)
-↓
-DynamoDB + Firebase
-
+```text
+[ Mobile App ]
+React Native + Expo
+        │
+        ▼
+[ API ]
+Node.js + Express + TypeScript
+        │
+        ▼
+[ Data Layer ]
+Firebase / Firestore
+```
 ---
 
 # 📊 GitHub Stats
