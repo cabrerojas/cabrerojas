@@ -1,24 +1,21 @@
-# Hi, I'm Guillermo Cabrera 👋
-
-Fullstack developer focused on building mobile applications and backend services with TypeScript.
-
-![Profile Views](https://komarev.com/ghpvc/?username=cabrerojas&color=blue)
-
----
-
-## 🧰 Tech Stack
-
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=cabrerojas&color=green)
+# Hi, I'm Guillermo Cabrera 👋
+
+## 👨‍💻 About Me
+
+Fullstack developer focused on building mobile applications and backend services.
+
+I enjoy creating products that solve real problems, especially mobile apps connected to scalable APIs.
 
 # 🚧 Currently Building
 
