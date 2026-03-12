@@ -18,8 +18,8 @@ Fullstack developer focused on building mobile applications and backend services
 I enjoy creating products that solve real problems, especially mobile apps connected to scalable APIs.
 
 [![Email](https://img.shields.io/badge/Email-contact-blue?logo=gmail)](mailto:gcabrerojas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?logo=linkedin)](https://linkedin.com/in/gcabrerojas)
 [![GitHub](https://img.shields.io/badge/GitHub-profile-black?logo=github)](https://github.com/cabrerojas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?logo=linkedin)](https://linkedin.com/in/gcabrerojas)
 
 ## 🚧 Currently Building
 
@@ -113,5 +113,5 @@ Plugin that detects proxy configuration on Android devices to help prevent netwo
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcabrerojas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gcabrerojas)
 [![GitHub](https://img.shields.io/badge/GitHub-profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cabrerojas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gcabrerojas)
