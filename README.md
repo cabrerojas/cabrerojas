@@ -17,7 +17,11 @@ Fullstack developer focused on building mobile applications and backend services
 
 I enjoy creating products that solve real problems, especially mobile apps connected to scalable APIs.
 
-# 🚧 Currently Building
+[![Email](https://img.shields.io/badge/Email-contact-blue?logo=gmail)](mailto:gcabrerojas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?logo=linkedin)](https://linkedin.com/in/gcabrerojas)
+[![GitHub](https://img.shields.io/badge/GitHub-profile-black?logo=github)](https://github.com/cabrerojas)
+
+## 🚧 Currently Building
 
 ## MyQuota
 
@@ -82,19 +86,19 @@ Firebase / Firestore
 ```
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabrerojas&show_icons=true&theme=tokyonight)
 
 ---
 
-# 🧠 Most Used Languages
+## 🧠 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabrerojas&layout=compact&theme=tokyonight)
 
 ---
 
-# 🔧 Other Projects
+## 🔧 Other Projects
 
 ### cordova-plugin-integrity
 
@@ -106,7 +110,8 @@ Plugin that detects proxy configuration on Android devices to help prevent netwo
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
-GitHub  
-https://github.com/cabrerojas
+[![Email](https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcabrerojas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gcabrerojas)
+[![GitHub](https://img.shields.io/badge/GitHub-profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cabrerojas)
