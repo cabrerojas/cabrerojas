@@ -1,117 +1,119 @@
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+# Guillermo Cabrera Rojas
 
-![Profile Views](https://komarev.com/ghpvc/?username=cabrerojas&color=green)
-# Hi, I'm Guillermo Cabrera 👋
+### Mobile & Full Stack Developer
 
-## 👨‍💻 About Me
+Mobile-focused software developer building production applications with
+**TypeScript, Ionic, Angular, Cordova and Capacitor**, with backend experience
+using **Node.js, NestJS and AWS**.
 
-Fullstack developer focused on building mobile applications and backend services.
+I work across the mobile stack: product features, offline workflows,
+device integrations, native Cordova bridges, platform migrations and
+REST APIs.
 
-I enjoy creating products that solve real problems, especially mobile apps connected to scalable APIs.
+Currently exploring modern mobile architecture with **React Native and Expo**
+through my personal project, MyQuota.
 
-[![Email](https://img.shields.io/badge/Email-contact-blue?logo=gmail)](mailto:gcabrerojas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-profile-black?logo=github)](https://github.com/cabrerojas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?logo=linkedin)](https://linkedin.com/in/gcabrerojas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_Cabrera-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gcabrerojas)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gcabrerojas@gmail.com)
 
-## 🚧 Currently Building
+## Core Stack
 
-## MyQuota
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Cordova](https://img.shields.io/badge/Apache_Cordova-E8E8E8?style=flat&logo=apachecordova&logoColor=black)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-Personal finance mobile application designed to help users track installments, payments and financial activity.
+## What I Work On
 
-### 📱 Mobile App
+- 📱 Cross-platform mobile applications with Ionic, Cordova and Capacitor
+- 🔌 Native mobile integrations and Cordova plugins using Java and Swift
+- 📴 Offline-first workflows and synchronization
+- 📷 Camera, geolocation, maps and industrial barcode scanners
+- 🔄 Android platform migrations and mobile release maintenance
+- ⚙️ REST APIs and backend services with TypeScript, NestJS and AWS
 
-Repository  
-https://github.com/cabrerojas/myquota-app
+## Currently Building
 
-Tech
+### MyQuota
 
-![React Native](https://img.shields.io/badge/React%20Native-mobile-blue?logo=react)
-![Expo](https://img.shields.io/badge/Expo-framework-black?logo=expo)
-![TypeScript](https://img.shields.io/badge/TypeScript-language-blue?logo=typescript)
-![AsyncStorage](https://img.shields.io/badge/AsyncStorage-local%20storage-grey)
+**Personal finance platform for managing credit-card spending, installments and billing periods.**
 
-Features
+MyQuota is an end-to-end project where I explore modern mobile architecture,
+financial data modeling and external-service integrations.
 
-- Track financial transactions
-- Manage installment payments
-- Monthly financial overview
-- Mobile-first UX
+#### Mobile
 
----
+**React Native · Expo · TypeScript · Expo Router · React Query**
 
-### ⚙️ Backend API
+- Transaction and installment management
+- Credit-card billing periods
+- Financial dashboards and insights
+- Google authentication
+- Native-oriented iOS and Android UX
 
-Repository  
-https://github.com/cabrerojas/myquota-backend
+[View the MyQuota mobile repository](https://github.com/cabrerojas/myquota-app)
 
-Tech
+#### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-runtime-green?logo=node.js)
-![Express](https://img.shields.io/badge/Express-framework-black?logo=express)
-![TypeScript](https://img.shields.io/badge/TypeScript-language-blue?logo=typescript)
-![Firestore](https://img.shields.io/badge/Firestore-database-orange?logo=firebase)
-![JWT](https://img.shields.io/badge/JWT-authentication-black?logo=jsonwebtokens)
+**Node.js · Express · TypeScript · Supabase · PostgreSQL**
 
-Features
+- REST API
+- Authentication and authorization
+- Financial transaction processing
+- Billing-period and installment logic
+- Gmail API integration
+- Input validation and API security
 
-- User authentication
-- Transaction management
-- Installment tracking
-- Secure REST API
+[View the MyQuota backend repository](https://github.com/cabrerojas/myquota-backend)
 
----
+### Architecture
 
-## 🏗 MyQuota Architecture
 ```text
-[ Mobile App ]
 React Native + Expo
         │
         ▼
-[ API ]
-Node.js + Express + TypeScript
+TypeScript REST API
+Node.js + Express
         │
         ▼
-[ Data Layer ]
-Firebase / Firestore
+Supabase / PostgreSQL
+        │
+        └── Gmail API / Google Services
 ```
----
 
-## 📊 GitHub Stats
-
-![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabrerojas&show_icons=true&theme=tokyonight)
-
----
-
-## 🧠 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabrerojas&layout=compact&theme=tokyonight)
-
----
-
-## 🔧 Other Projects
+## Native & Mobile Engineering
 
 ### cordova-plugin-integrity
 
-Cordova plugin that retrieves the APK hash to verify Android application integrity.
+Cordova plugin written in **Java** that calculates the SHA-256 hash of the
+installed Android APK and exposes it to JavaScript for integrity validation.
+
+[View cordova-plugin-integrity](https://github.com/cabrerojas/cordova-plugin-integrity)
 
 ### cordova-plugin-detectproxy
 
-Plugin that detects proxy configuration on Android devices to help prevent network tampering.
+Cordova plugin implemented in **Java and Swift** for detecting system proxy
+configuration on Android and iOS.
 
----
+[View cordova-plugin-detectproxy](https://github.com/cabrerojas/cordova-plugin-detectproxy)
 
-## 📫 Contact
+## Current Focus
 
-Feel free to reach out if you'd like to collaborate or discuss a project.
+- Mobile architecture
+- React Native & Expo
+- Full-stack TypeScript
+- Native mobile integrations
+- AI-assisted software development
 
-[![Email](https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcabrerojas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cabrerojas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gcabrerojas)
+## Contact
+
+Feel free to connect with me on
+[LinkedIn](https://linkedin.com/in/gcabrerojas)
+or reach me by
+[email](mailto:gcabrerojas@gmail.com).
+
